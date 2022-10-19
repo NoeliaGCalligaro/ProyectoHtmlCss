@@ -1,0 +1,11 @@
+.botonn {
+    background-color: transparent;
+    border-radius: 1rem;
+    padding: 0.5rem 2rem; }
+.rosa-b {
+      border: solid 0.14rem #DB715C;
+      color: #DB715C; }
+.rosa-b:hover {
+        color: #f4f0ef;
+        background-color: #DB715C;
+        transition: 1s; }
